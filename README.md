@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ForisPoe</h1>
 <h3 align="center">A passionate cheat developer from Turkey</h3>
 
-- 👨‍💻 I'm currently working on software for games. [I'm currently working on software for games.](https://shadecheats.xyz/)
+- 👨‍💻 I'm currently working on software for games. [shadecheat.xyz](https://shadecheats.xyz/)
 
 - 💬 Ask me about **If there's anything I can help with, I'll help as much as I can <3**
 
