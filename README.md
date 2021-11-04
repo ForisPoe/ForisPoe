@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/forispoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="forispoe" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/XyHAphBH2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/XyHAphBH2k" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/MdT8XEkd58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MdT8XEkd58" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
